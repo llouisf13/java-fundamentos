@@ -7,6 +7,8 @@ public class Main {
         
         p1.exibirDados();
 
+       System.out.println(p1.getNome());
+       System.out.println(p1.getCodigo());
         
     }
 }
