@@ -9,6 +9,8 @@ public class Main {
 
        System.out.println(p1.getNome());
        System.out.println(p1.getCodigo());
+       System.out.println(p1.getPreco());
+       System.out.println(p1.getQuantidade());
         
     }
 }
